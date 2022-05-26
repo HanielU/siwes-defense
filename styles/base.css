@@ -1,0 +1,9 @@
+:root {
+  font-family: "Raleway", sans-serif;
+}
+
+.slidev-layout {
+  code {
+    font-family: "Jetbrains Mono", sans-serif;
+  }
+}
